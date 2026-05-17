@@ -1,0 +1,8 @@
+{
+  "name": "吳衫憲的個人實作集",
+  "description": "目前就讀於國立高雄科技大學航技系，展示打工與實習經歷、電腦技能、專業證照及 AI 創意作品。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
